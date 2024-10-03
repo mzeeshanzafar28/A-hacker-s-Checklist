@@ -108,7 +108,7 @@ Here's your checklist formatted for a `README.md` file:
 - [ ] Use **Gobuster** or **Dirbuster** to find directories:
   ```bash
   gobuster dir -u [URL] -w [WORDLIST]
-  ```
+
 - [ ] Search for backup files (`.bak`, `.old`).
 
 ## 3. Identify Web Application Technologies
@@ -130,7 +130,7 @@ Here's your checklist formatted for a `README.md` file:
 - [ ] Use **SQLMap** for automated SQL Injection:
   ```bash
   sqlmap -u [URL] --dbs
-  ```
+  
 
 ## 8. Cross-Site Scripting (XSS)
 - [ ] Manually inject XSS payloads.
@@ -152,7 +152,7 @@ Here's your checklist formatted for a `README.md` file:
 - [ ] Use **Hydra** to brute-force login credentials:
   ```bash
   hydra -l admin -P /path/to/wordlist.txt [URL] http-post-form "/login:username=^USER^&password=^PASS^:Invalid Login"
-  ```
+  
 
 ## 13. Test Authorization
 - [ ] Check for privilege escalation by accessing restricted pages.
