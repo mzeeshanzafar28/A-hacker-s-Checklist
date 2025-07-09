@@ -187,5 +187,5 @@ Here's your checklist formatted for a `README.md` file:
 
 > **Enjoy your journey of mastering hacking!** 😎
 
-> **Follow on Linkedin for more:https://www.linkedin.com/in/m-zeeshan-zafar-9205a1248/**
+> **Follow on Linkedin for more:https://www.linkedin.com/in/mzeeshanzafar28/**
 ---
